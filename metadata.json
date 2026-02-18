@@ -1,0 +1,5 @@
+{
+  "name": "Ascent: Command Climbing Simulator",
+  "description": "An interactive rock climbing simulator where you control a climber's limbs using text commands or buttons, navigating a procedural wall while maintaining stability and reach.",
+  "requestFramePermissions": []
+}
